@@ -1,0 +1,18 @@
+
+
+
+:root{
+    --main-background  : #1E1E1E;
+    
+     --primary-fontcolour: #FFFFFF;
+     ;
+     --main-focusingcolour:  #FD6F00;
+     ;    
+
+}
+*{
+    margin:  0  0;
+    
+    font-family: "Rubik";
+  color: #FEFFFF;
+}  

@@ -1,0 +1,182 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.container{
+
+    background-color: var(--main-background);
+    
+    
+}
+.header-container{
+
+    height: 100%;
+    
+    margin: 0 130px;
+}
+
+.nav-container{
+
+    display: flex;
+    justify-content: space-between;  
+    padding-top: 30px;
+   
+}
+.logo h1{
+
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--main-focusingcolour);
+}
+.nav  {
+display: flex;
+gap: 30px;
+font-size: 21px;
+
+
+}
+.nav h1 {
+    
+    font-weight: 400;
+    font-size: 21px;
+    
+    
+    }
+.download-button{
+
+    background-color: var( --main-focusingcolour);
+    font-size: 21px;
+    width: fit-content;
+    padding: 0 25px;
+    display: inline;
+}
+.size-5{
+
+    height: 34px;
+    width: 34x;
+}
+.banner-headline h1{
+  margin-top: 150px;
+   font-size: 40px;
+   font-weight: 800; 
+   line-height: 60px;
+}
+.Dhaka{
+    color: var(--main-focusingcolour);
+}
+.desc{
+    font-size: 18px;
+ color:  #FFFFFF80;
+ ;
+    font-weight: 400;
+    line-height: 21.33px;
+    
+}
+.department h1{
+
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28.44px;
+    padding-top: 20px;
+}
+
+.banner-button{
+
+display: flex;
+border-color: -moz-linear-gradient(top, #FFFFFF ,#C9C9C900);
+border-style: solid;
+
+border-radius: 50px;
+border-color:#FFFFFF;
+padding: 8px;
+background-color:  #FFFFFF1A;
+;
+width: fit-content;
+margin-top: 30px;
+
+}
+.portfolio{
+
+    display: flex;
+    background-color: var(--main-focusingcolour);
+    
+    width: fit-content;
+    border-radius: 60px;
+    padding: 15px 40px
+}
+
+.writing h1{
+ font-weight: 400;
+ font-size: 25.69px;
+ line-height: 30.44px;
+ 
+
+
+}
+.port-icon{
+    height: 15px;
+    width: 25px;
+}
+.hire h1{
+    font-size: 25.69px;
+    line-height: 30.44px ;
+    font-weight: 400;
+    padding: 15px 20px;
+    
+}
+.social-media-icon{
+    display: flex;
+    gap: 20px;
+    
+}
+
+.fb {
+    padding-top: 20px;
+    height: 32.48px;
+    width: 32.28px;
+    
+
+    
+}
+.header-end{
+    display: flex;
+    margin-top: 270px;
+    justify-content: space-between;
+}
+.about-me h1{
+    
+    font-size: 40px;
+    line-height: 47.4px;
+    font-weight: 800;
+}
+.para p {
+color:#FFFFFF80;
+;
+padding-top: 10px;
+
+
+}
+.rate-exp{
+    display: flex;
+    flex-direction: column;
+ 
+    }
+    
+.rating{
+    display: flex;
+    flex-direction: row;
+    width: 50px; height: 50px;
+    
+}
+.exp h1{
+      font-weight: 700;
+      font-size: 47px;
+      line-height: 47px;
+}
+.exp p{
+    font-weight: 400;
+    font-size: 20px;
+    text-align: end;
+    line-height: 20px;
+}

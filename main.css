@@ -1,0 +1,316 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+#grad1 {
+    height: 632px;
+    margin: 50px 0px;
+    background-image: linear-gradient(270.16deg, rgba(255, 177, 71, 0.1) 5.74%, rgba(255, 108, 99, 0.1) 50.64%, rgba(184, 106, 223, 0.1) 92.05%);
+    ;
+  }
+.snd-body{
+
+    margin: 0 130px;
+}
+
+.after-about{
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.Experience h1{
+  padding-top: 150px;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.myexp h1{
+    
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 40px;
+    
+
+}
+.paragraph p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    padding-top: 20px;
+}
+
+.present-flex-one{
+
+display: flex;
+
+padding-top: 120px;
+border-bottom: 1px solid;
+
+
+
+
+}
+.present-flex{
+
+  display: flex;
+  padding-top: 50px;
+  border-bottom: 1px solid;
+  
+  }
+  .present-one{
+  padding-bottom: 20px;
+  }
+.present h1{
+  
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.experience h1{
+
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+}
+.rolling h1{
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+
+}
+
+#awards{
+
+ margin: 0 130px; 
+
+}
+.awards h1{
+
+  padding-top: 130px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47.4px;
+  text-align: center;
+
+}
+.awardpara{
+
+  padding-top: 19px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.33x;
+  text-align: center;
+}
+.mobileapp-design{
+background-color: #000000;
+display:flex;
+justify-content: space-between;
+padding: 40px 40px
+
+
+}
+
+.design h1{
+
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28x;
+  
+}
+
+.design p{
+
+  color: #FFFFFF80;
+   padding-top:24px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28x;
+  
+}
+.design-year h1{
+
+
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: end;
+
+}
+.seperate1{
+
+  padding-top: 30px;
+}
+.seperate{
+
+  padding-top: 20px;
+}
+
+.p-heading h1{
+
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 47.4px;
+  text-align: center;
+  padding-top:  120px;
+
+
+}
+
+.p-heading p{
+ padding-top: 15px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.33px;
+  text-align: center;
+  color: #FFFFFF80;
+ 
+
+}
+.categories{
+  display: flex;
+  justify-content:center;
+  gap: 10px;
+  text-align: center;
+  padding: 40px 0;
+}
+.ui-web-graph h1{
+  background-color:#000000;
+  width: fit-content;
+  font-weight:400;
+  font-size: 18px;
+  padding: 5px 20px;
+  line-height: 36px;
+  font-family: Poppins;
+  
+  color:var(--primary-fontcolour);
+
+}
+.WEB-DESIGN h1{
+
+  background-color:#FD6F00;
+  width: fit-content;
+  font-weight:400;
+  font-size: 18px;
+  padding: 5px 20px;
+  line-height: 36px;
+  font-family: Poppins;
+  
+  color:var(--primary-fontcolour);
+
+
+}
+.image-res{
+  display: flex;
+  gap: 40px;
+}
+
+.bally h1{
+
+  line-height: 40px;
+  font-size: 40px;
+  font-weight: 700;
+  padding: 20px 0; 
+
+}
+.res-det p{
+  color: #FFFFFF80;
+  line-height: 21.33px;
+ font-size: 18px;
+ font-weight: 400;
+}
+#my-portfolio{
+
+ margin: 0 130px;
+
+}
+.Experience h2{
+  
+    padding-top: 50px;
+      font-style: italic;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 28px;
+  }
+
+  .con-hed h1{
+    padding-top: 80px;
+      font-style: italic;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 24px;
+  text-align: center;
+  }
+.con-hed2 h1{
+  padding-top: 20px;
+ padding-bottom: 30px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 56px;
+  text-align: center;
+}
+.na-em{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.name h1{
+  padding-top: 20px;
+  padding-bottom: 3px;font-size: 16px;font-weight: 500;border-bottom: 1.5px solid;
+}
+.email h1{
+  padding-top: 20px;padding-bottom: 3px;font-size: 16px;font-weight: 500;border-bottom: 1.5px solid;
+}
+.message h1{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  border-bottom: 1.5px solid;
+}
+
+.attach{
+  display: flex;
+  gap: 5px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+
+}
+
+.attachment h1 {
+  
+  
+  font-size: 16px;
+  font-weight: 500;
+
+}
+
+.WEB-DESIGN h2{
+
+  background-color:#FD6F00;
+  width: fit-content;
+  font-weight:500;
+  font-size: 18px;
+  padding: 18px 40px;
+  line-height: 24px;
+  
+  
+  
+  color:var(--primary-fontcolour);
+
+
+}
+#form{
+
+  background-color: #FD6F001A;
+  
+  padding: 60px 120px;
+
+
+}
